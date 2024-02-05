@@ -26,6 +26,7 @@ ignored.txt
 *.pdf
 *.kek
 *.kekk
+*.kekkk
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
